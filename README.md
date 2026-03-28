@@ -56,7 +56,7 @@ BEN writes code, but only after producing a written plan. He reads the docs, map
 
 INA owns the look, feel, motion, visual identity, and front-end design system. Her job is not just to make things pretty. Her job is to make the result feel intentionally designed by a human.
 
-She starts by choosing one aesthetic direction, then creates design tokens before touching components. She uses strong layout variation, visual rhythm, purposeful motion, and a strict anti-pattern checklist to avoid the usual AI-generated UI clichés. fileciteturn0file4
+She starts by choosing one aesthetic direction, then creates design tokens before touching components. She uses strong layout variation, visual rhythm, purposeful motion, and a strict anti-pattern checklist to avoid the usual AI-generated UI clichés. 
 
 **INA is responsible for:**
 - visual direction
@@ -74,7 +74,7 @@ She starts by choosing one aesthetic direction, then creates design tokens befor
 
 ### 3. RON. The Reviewer
 
-RON is the gatekeeper. He reviews BEN's plans before they are built, reviews code at milestones, and checks security, architecture, and design integrity. He is specifically there to stop weak work from slipping through just because everyone wants to move faster. fileciteturn0file0
+RON is the gatekeeper. He reviews BEN's plans before they are built, reviews code at milestones, and checks security, architecture, and design integrity. He is specifically there to stop weak work from slipping through just because everyone wants to move faster. 
 
 **RON is responsible for:**
 - plan review
@@ -92,7 +92,7 @@ RON is the gatekeeper. He reviews BEN's plans before they are built, reviews cod
 
 ### 4. QUINN. The QA Agent
 
-QUINN is the final automated gate before human review. She runs structured QA across functionality, visuals, motion, copy, images, SEO, performance, responsive behavior, and accessibility. Her output is always a structured QA report with passed checks, failed checks, severity, verdict, and fix routing. fileciteturn0file1
+QUINN is the final automated gate before human review. She runs structured QA across functionality, visuals, motion, copy, images, SEO, performance, responsive behavior, and accessibility. Her output is always a structured QA report with passed checks, failed checks, severity, verdict, and fix routing.
 
 **QUINN is responsible for:**
 - functional QA
@@ -110,7 +110,7 @@ QUINN is the final automated gate before human review. She runs structured QA ac
 
 ### 5. DEX. The DevOps Diagnostic Agent
 
-DEX exists for the moments when the project is broken, slow, or misconfigured. She does not fix the issue herself. She diagnoses first, cites evidence, finds the root cause, and creates a prioritized fix plan. Only then does the issue go through review and back to implementation. fileciteturn0file3
+DEX exists for the moments when the project is broken, slow, or misconfigured. She does not fix the issue herself. She diagnoses first, cites evidence, finds the root cause, and creates a prioritized fix plan. Only then does the issue go through review and back to implementation. 
 
 **DEX is responsible for:**
 - build and config diagnosis
@@ -157,7 +157,7 @@ These agents were written for a modern web app workflow built around:
 - Framer Motion / motion
 - Vercel-style deployment workflows
 
-That does not mean you cannot adapt them. It just means the prompts, checks, and terminology are optimized for this stack. fileciteturn0file1turn0file3turn0file4
+That does not mean you cannot adapt them. It just means the prompts, checks, and terminology are optimized for this stack.
 
 ## Repository structure
 
@@ -274,11 +274,11 @@ Use the right entry point for the task:
 These rules are what make the system useful.
 
 - **BEN plans before building**. Always. 
-- **INA owns visual decisions**. BEN wires functionality, not design. fileciteturn0file0turn0file4
-- **RON reviews before things move forward**. Review is not ceremonial. fileciteturn0file0
-- **QUINN is the last automated gate before human review**. fileciteturn0file1
-- **DEX diagnoses before anyone starts fixing**. fileciteturn0file3
-- **Documentation is part of the work**. Not a cleanup step at the end. fileciteturn0file2turn0file3turn0file4
+- **INA owns visual decisions**. BEN wires functionality, not design. 
+- **RON reviews before things move forward**. Review is not ceremonial. 
+- **QUINN is the last automated gate before human review**. 
+- **DEX diagnoses before anyone starts fixing**. 
+- **Documentation is part of the work**. Not a cleanup step at the end.
 
 ## What gets documented
 
