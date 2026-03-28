@@ -12,11 +12,11 @@ When something breaks or behaves strangely, **DEX** steps in to diagnose the iss
 
 ## What this repo includes
 
-- **BEN**. Builder agent. Plans first, builds second, documents everything. fileciteturn0file2
-- **INA**. Front-end and visual design agent. Creates a distinct visual system and refuses generic AI-looking UI. fileciteturn0file4
-- **RON**. Reviewer and gatekeeper. Reviews plans, code, security, architecture, and design integrity. fileciteturn0file0
-- **QUINN**. QA agent. Runs functional, visual, responsive, accessibility, SEO, and performance checks before final handoff. fileciteturn0file1
-- **DEX**. DevOps and diagnostics agent. Finds root causes, documents evidence, and creates a fix plan before BEN touches anything. fileciteturn0file3
+- **BEN**. Builder agent. Plans first, builds second, documents everything. 
+- **INA**. Front-end and visual design agent. Creates a distinct visual system and refuses generic AI-looking UI. 
+- **RON**. Reviewer and gatekeeper. Reviews plans, code, security, architecture, and design integrity. 
+- **QUINN**. QA agent. Runs functional, visual, responsive, accessibility, SEO, and performance checks before final handoff.
+- **DEX**. DevOps and diagnostics agent. Finds root causes, documents evidence, and creates a fix plan before BEN touches anything.
 
 ## Why this exists
 
@@ -37,7 +37,7 @@ If you only work on side projects occasionally, this matters even more. Context 
 
 ### 1. BEN. The Builder
 
-BEN writes code, but only after producing a written plan. He reads the docs, maps affected files, explains architectural decisions, lists risks, then stops for review. Only after review and approval does he build. He also maintains documentation, milestone summaries, and conventional commits. fileciteturn0file2
+BEN writes code, but only after producing a written plan. He reads the docs, maps affected files, explains architectural decisions, lists risks, then stops for review. Only after review and approval does he build. He also maintains documentation, milestone summaries, and conventional commits. 
 
 **BEN is responsible for:**
 - implementation
@@ -273,7 +273,7 @@ Use the right entry point for the task:
 
 These rules are what make the system useful.
 
-- **BEN plans before building**. Always. fileciteturn0file2
+- **BEN plans before building**. Always. 
 - **INA owns visual decisions**. BEN wires functionality, not design. fileciteturn0file0turn0file4
 - **RON reviews before things move forward**. Review is not ceremonial. fileciteturn0file0
 - **QUINN is the last automated gate before human review**. fileciteturn0file1
